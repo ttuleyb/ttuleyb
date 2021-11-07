@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttuleyb
 - 👀 I’m interested in C# and Python
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
