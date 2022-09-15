@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttuleyb
-- 👀 I’m interested in C# and Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data science, particularly AI art models like MidJourney and Stable Diffusion
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on any project using AI models or databases
 - 📫 How to reach me ...
 
