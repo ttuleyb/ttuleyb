@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ttuleyb
+- 👋 Hi, I’m @ttuleyb, currently a student
 - 👀 I’m interested in Data science and Software Engineering
 - 💞️ I’m looking to collaborate on any projects using AI or software engineering in general
 - 📫 Drop me an email at simsektuleyb@gmail.com
